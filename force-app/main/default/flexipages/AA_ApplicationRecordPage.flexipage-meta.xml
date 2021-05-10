@@ -155,6 +155,9 @@
             <componentName>flexipage:fieldSection</componentName>
         </componentInstances>
         <componentInstances>
+            <componentName>AaRegisterCodeBaseList</componentName>
+        </componentInstances>
+        <componentInstances>
             <componentInstanceProperties>
                 <name>columns</name>
                 <value>Facet-f920b946-44e3-4ae8-8e46-ecec4cdbad2b</value>

@@ -201,6 +201,13 @@
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
+        <fields>OrganizationType__c</fields>
+        <fields>LegalBasisCounty__c</fields>
+        <fields>PurposeCounty__c</fields>
+        <fields>OtherLegalBasis__c</fields>
+        <fields>OtherPurpose__c</fields>
+        <fields>LegalBasisPension__c</fields>
+        <fields>PurposePension__c</fields>
         <relatedList>ApplicationBasisCode__c.Application__c</relatedList>
     </relatedLists>
     <relatedLists>
